@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>prometheus_control</name>
+  <name>prometheus_control_gui</name>
   <version>0.0.0</version>
   <description>The prometheus_control package</description>
 
